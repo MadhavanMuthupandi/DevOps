@@ -1,1 +1,2 @@
 This is testB file
+TextB file has been changed
